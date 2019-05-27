@@ -1,0 +1,9 @@
+.Head h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Head p {
+    font-size: x-small;
+    margin-top: -20px;
+    color: #939393;
+}
